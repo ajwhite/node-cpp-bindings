@@ -9,5 +9,8 @@
   },
   "author": "Atticus White <contact@atticuswhite.com> (http://atticuswhite.com/)",
   "license": "MIT",
-  "gypfile": true
+  "gypfile": true,
+  "devDependencies": {
+    "node-gyp": "^3.3.1"
+  }
 }
